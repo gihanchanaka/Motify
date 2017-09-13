@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>CLASS DISCUSSION</title>
+    <link>https://feels.pdn.ac.lk/mod/forum/view.php?f=299</link>
+    <description>&lt;p&gt;Any discussion (technical and non-technical) on CO222 can go here &lt;/p&gt;</description>
+    <generator>Moodle</generator>
+    <language>en</language>
+    <copyright>(c) 2016 Faculty of Engineering e-Learning System (FEeLS)</copyright>
+    <image>
+      <url>https://feels.pdn.ac.lk/theme/image.php?theme=leatherbound&amp;amp;component=core&amp;amp;rev=1461039818&amp;amp;image=i%2Frsssitelogo</url>
+      <title>moodle</title>
+      <link>https://feels.pdn.ac.lk</link>
+      <width>140</width>
+      <height>35</height>
+    </image>
+    <item>
+      <title>Erroneous Cumluative Marks Report</title>
+      <link>https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4541</link>
+      <pubDate>Mon, 18 Apr 2016 13:58:28 GMT</pubDate>
+      <description>by E/13/181 S.L.B.Karunarathne. &amp;nbsp;&lt;p&gt;&lt;p&gt;The cumulative marks report at &lt;a href=&quot;http://tesla.ce.pdn.ac.lk/CO222report/&quot; class=&quot;_blanktarget&quot;&gt;http://tesla.ce.pdn.ac.lk/CO222report/&lt;/a&gt; is displaying incorrect details when viewing the individual status. Please correct this. Thanks.&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4541</guid>
+    </item>
+    <item>
+      <title>GPA 4.0</title>
+      <link>https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4530</link>
+      <pubDate>Sat, 16 Apr 2016 15:54:25 GMT</pubDate>
+      <description>by Roshan G. Ragel. &amp;nbsp;&lt;p&gt;&lt;p&gt;Dear All, &lt;/p&gt;
+&lt;p&gt;An interesting and hopefully useful read: &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.quora.com/How-can-someone-achieve-a-GPA-4-0-in-Engineering&quot; class=&quot;_blanktarget&quot;&gt;https://www.quora.com/How-can-someone-achieve-a-GPA-4-0-in-Engineering&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4530</guid>
+    </item>
+    <item>
+      <title>Lab 11 error</title>
+      <link>https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4519</link>
+      <pubDate>Thu, 07 Apr 2016 13:28:16 GMT</pubDate>
+      <description>by E/13/276 M.R.R.B Rajasooriya. &amp;nbsp;&lt;p&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;When I try to print a student data it always shows this warning. What's the reason for this warning?&lt;/p&gt;
+&lt;p&gt;&quot; warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘int’ [-Wformat=] &quot;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4519</guid>
+    </item>
+    <item>
+      <title>Reading Assignment</title>
+      <link>https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4468</link>
+      <pubDate>Tue, 22 Mar 2016 12:17:54 GMT</pubDate>
+      <description>by E/13/132 H.L.S. Hashantha. &amp;nbsp;&lt;p&gt;&lt;p&gt;Sir, I tried several times to connect to perusall. But I couldn't connect. It says that your activity has open in a new window but there was not such a window.&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4468</guid>
+    </item>
+    <item>
+      <title>C Programming Questions</title>
+      <link>https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4381</link>
+      <pubDate>Mon, 29 Feb 2016 08:22:03 GMT</pubDate>
+      <description>by Roshan G. Ragel. &amp;nbsp;&lt;p&gt;&lt;p&gt;Dear All&lt;/p&gt;
+&lt;p&gt;The following links have a large amount of C programming questions. Hope they will be useful to test your knowledge:&lt;/p&gt;
+&lt;p style=&quot;margin-left:30px;&quot;&gt;&lt;a href=&quot;http://www.cquestions.com/&quot; class=&quot;_blanktarget&quot;&gt;http://www.cquestions.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;margin-left:30px;&quot;&gt;&lt;span style=&quot;font-size:13.6px;line-height:1.4;&quot;&gt;&lt;a href=&quot;http://www.scribd.com/doc/18034592/Test-Your-C-Skills-With-Answers&quot; class=&quot;_blanktarget&quot;&gt;http://www.scribd.com/doc/18034592/Test-Your-C-Skills-With-Answers&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4381</guid>
+    </item>
+    <item>
+      <title>Servers</title>
+      <link>https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4430</link>
+      <pubDate>Mon, 14 Mar 2016 12:15:15 GMT</pubDate>
+      <description>by E/13/274 Y.N.Rajapaksha. &amp;nbsp;&lt;p&gt;&lt;p&gt;Why Computer engineering Department's servers can't be accessed through SSH still? I'm aware that feature has been disabled due to midterms but why won't you enable it again?&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4430</guid>
+    </item>
+    <item>
+      <title>Mock Exam</title>
+      <link>https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4376</link>
+      <pubDate>Sun, 28 Feb 2016 12:57:41 GMT</pubDate>
+      <description>by E/13/239 Siva Nilucshan. &amp;nbsp;&lt;p&gt;&lt;p&gt;Dear Sir,&lt;/p&gt;
+&lt;p&gt;Can u please give details about mock exam, what i mean is what kind of exam that is and is like other ordinary lab sessions?&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4376</guid>
+    </item>
+    <item>
+      <title>lab 06- Pinting unwanted values</title>
+      <link>https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4372</link>
+      <pubDate>Sat, 27 Feb 2016 05:54:30 GMT</pubDate>
+      <description>by E/13/276 M.R.R.B Rajasooriya. &amp;nbsp;&lt;p&gt;&lt;p&gt;Its about lab 6,the encriptor. It prints unwanted charactors in the terminal with the expected charactor. Sometimes it does not display the expected charactor but it displays a charactor which I dont know what it is.May be its printing something which is not in the range of the ascii values of the english alpabet.&lt;/p&gt;
+&lt;p&gt;As an example when I give shift '3' and the text 'A', it should display 'D' .But it only prints that unexpected charactor.&lt;/p&gt;
+&lt;p&gt;How can I fix it?&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4372</guid>
+    </item>
+    <item>
+      <title>Having to press control+D twice for EOF</title>
+      <link>https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4340</link>
+      <pubDate>Wed, 24 Feb 2016 16:43:13 GMT</pubDate>
+      <description>by Hasindu Gamaarachchi. &amp;nbsp;&lt;p&gt;&lt;p&gt;Some had an issue during today's lab, where at the middle of a line pressing control+D once would not mark the EOF. The reason is as follows.&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;color:#263238;font-family:arial, sans-serif;font-size:13px;line-height:16px;&quot;&gt;In Linux EOF is triggered by one of following methods.&lt;/span&gt;&lt;br style=&quot;color:#263238;font-family:arial, sans-serif;font-size:13px;line-height:16px;&quot; /&gt;&lt;span style=&quot;color:#263238;font-family:arial, sans-serif;font-size:13px;line-height:16px;&quot;&gt;1.pressing control+D at the beginning of a new line.&lt;/span&gt;&lt;br style=&quot;color:#263238;font-family:arial, sans-serif;font-size:13px;line-height:16px;&quot; /&gt;&lt;span style=&quot;color:#263238;font-family:arial, sans-serif;font-size:13px;line-height:16px;&quot;&gt;2.pressing Control+D twice consecutively during the middle of a line.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;For more info refer &lt;br /&gt;&lt;a href=&quot;http://stackoverflow.com/questions/21260674/why-do-i-need-to-type-ctrl-d-twice-to-mark-end-of-file&quot; class=&quot;_blanktarget&quot;&gt;http://stackoverflow.com/questions/21260674/why-do-i-need-to-type-ctrl-d-twice-to-mark-end-of-file&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color:#263238;font-family:arial, sans-serif;font-size:13px;line-height:16px;&quot;&gt;2.pressing Control+D twice consectively during the middle of a line&lt;/span&gt;&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4340</guid>
+    </item>
+    <item>
+      <title>Lab 5</title>
+      <link>https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4305</link>
+      <pubDate>Wed, 17 Feb 2016 08:54:44 GMT</pubDate>
+      <description>by E/13/415 Wishmila H.P.R.. &amp;nbsp;&lt;p&gt;&lt;p&gt;Is it ok to make some modifications in the main method, other than what is specified in the &lt;a class=&quot;autolink&quot; title=&quot;skeleton code&quot; href=&quot;https://feels.pdn.ac.lk/mod/resource/view.php?id=8443&quot;&gt;skeleton code&lt;/a&gt;? Also is it ok to have extra methods in the program, just for the sake of making it a little bit more unbreakable?&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4305</guid>
+    </item>
+    <item>
+      <title>Reading Assignment</title>
+      <link>https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4273</link>
+      <pubDate>Sun, 14 Feb 2016 04:26:30 GMT</pubDate>
+      <description>by E/13/216 D.A.D.Mahindika. &amp;nbsp;&lt;p&gt;&lt;p&gt;sir,   It doesn't load the reading assignment page for my profile, what can i do for it?&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4273</guid>
+    </item>
+    <item>
+      <title>Reading assigment submission time</title>
+      <link>https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4256</link>
+      <pubDate>Wed, 10 Feb 2016 03:45:12 GMT</pubDate>
+      <description>by E/13/276 M.R.R.B Rajasooriya. &amp;nbsp;&lt;p&gt;&lt;p&gt;In the reading assignment based on &quot;operators&quot; ,all others had the submission time at 9.00pm on 9th february,except me. I had the submission time on 7.30 a.m in the morning on the same day and I completed the assignment after 7.30 a.m.. Why was that only I had to submit it on so early than others?&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4256</guid>
+    </item>
+    <item>
+      <title>Test cases for Lab04</title>
+      <link>https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4261</link>
+      <pubDate>Wed, 10 Feb 2016 14:39:58 GMT</pubDate>
+      <description>by Roshan G. Ragel. &amp;nbsp;&lt;p&gt;&lt;p&gt;Dear All,&lt;/p&gt;
+&lt;p&gt;I didn't give test cases for lab04. I suggest you make your own test cases and then share them here (by replying to this message). &lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4261</guid>
+    </item>
+    <item>
+      <title>Data Representation</title>
+      <link>https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4240</link>
+      <pubDate>Sun, 07 Feb 2016 17:48:56 GMT</pubDate>
+      <description>by Roshan G. Ragel. &amp;nbsp;&lt;p&gt;&lt;p&gt;Dear All&lt;/p&gt;
+&lt;p&gt;Here is an interesting and useful article on data representation. I suggest you read it.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;&lt;a href=&quot;http://www3.ntu.edu.sg/home/ehchua/programming/java/DataRepresentation.html&quot;&gt;http://www3.ntu.edu.sg/home/ehchua/programming/java/DataRepresentation.html&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4240</guid>
+    </item>
+    <item>
+      <title>Lab 01</title>
+      <link>https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4190</link>
+      <pubDate>Sun, 31 Jan 2016 07:45:50 GMT</pubDate>
+      <description>by E/13/216 D.A.D.Mahindika. &amp;nbsp;&lt;p&gt;&lt;p&gt;&lt;span&gt;Ms Arudchutha Subramaniam, &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;My marks for lab 01 was  Q1 45/45 and and Q2 53/55  and the total was 93/100. I think it should be 98/100. &lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4190</guid>
+    </item>
+    <item>
+      <title>lab 01- test cases</title>
+      <link>https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4170</link>
+      <pubDate>Sat, 23 Jan 2016 17:21:00 GMT</pubDate>
+      <description>by E/13/216 D.A.D.Mahindika. &amp;nbsp;&lt;p&gt;&lt;p&gt;&lt;span&gt;sir when i checked my codes manually in linux terminal it was worked properly and displayed the correct outputs for all inputs. but when i checked it with given testcase Q1 it missed last digit of the output (in time program) and comment it as a wrong output. what could be the reason for that?&lt;/span&gt;&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4170</guid>
+    </item>
+    <item>
+      <title>Comments</title>
+      <link>https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4171</link>
+      <pubDate>Sun, 24 Jan 2016 07:56:36 GMT</pubDate>
+      <description>by E/13/274 Y.N.Rajapaksha. &amp;nbsp;&lt;p&gt;&lt;p&gt;Do we need to include comments describing the steps in our source codes of Lab sessions? Do comments have an impact on the grading?&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4171</guid>
+    </item>
+    <item>
+      <title>Lab 01</title>
+      <link>https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4167</link>
+      <pubDate>Sat, 23 Jan 2016 06:39:17 GMT</pubDate>
+      <description>by E/13/095 Lashan Faliq. &amp;nbsp;&lt;p&gt;&lt;p&gt;How can you use putty to open the code we have written to compile? if i copy it to the location where i have saved the file and open it says no such file or directory?&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4167</guid>
+    </item>
+    <item>
+      <title>sqrt function error</title>
+      <link>https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4168</link>
+      <pubDate>Sat, 23 Jan 2016 07:58:37 GMT</pubDate>
+      <description>by E/13/276 M.R.R.B Rajasooriya. &amp;nbsp;&lt;p&gt;&lt;p&gt;This error messege comes whenever I use &quot;sqrt&quot; function,what's the reason for that and how can I fix it?&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&quot; warning: incompatible implicit declaration of built-in function ‘sqrt’ [enabled by default]  &quot;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4168</guid>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4143</link>
+      <pubDate>Wed, 20 Jan 2016 11:18:50 GMT</pubDate>
+      <description>by Test Account. &amp;nbsp;&lt;p&gt;&lt;p&gt;Testing...&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4143</guid>
+    </item>
+    <item>
+      <title>opening an installed application using terminal</title>
+      <link>https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4114</link>
+      <pubDate>Wed, 13 Jan 2016 11:54:29 GMT</pubDate>
+      <description>by E/13/285 Kavin Ranawella. &amp;nbsp;&lt;p&gt;&lt;p&gt;for some applications like libeoffice, typing the name directly will open up the application. but sometimes it won't work, like in the case of opening 'screenshot'.&lt;/p&gt;
+&lt;p&gt;So, is there a way that we can get to know the list of such words used to open apps.&lt;/p&gt;
+&lt;p&gt;thanks.&lt;/p&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://feels.pdn.ac.lk/mod/forum/discuss.php?d=4114</guid>
+    </item>
+  </channel>
+</rss>
