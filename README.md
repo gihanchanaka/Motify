@@ -22,3 +22,11 @@ Version 2 was developed by [Chandima](http://teambitecode.com/people/chandima) f
 
 The project was discontinued after Moodle released their own Desktop app.
 
+## Significance
+
+The application (Version 0) itself is very primitive. But there is a bigger significance for this project. 
+This was the first hackathon competition for most of the people in this group!
+Kesara kept coming up with ideas, proposing them and managing teams to create amazing products!
+Rangana's marketting/presenting skills let him win many events including the best presenter awards!
+Chandima has his own software development lab!
+Gihan never wrote code for any software development project after this!!
